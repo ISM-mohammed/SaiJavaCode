@@ -6,3 +6,5 @@
 <h2> i am done with docker conatiner deploy </h2>
 <h2> this is end-end CI-CD pipeline Devops Project with ansible nodes and docker container deployment </h2>
 <h2> i am done with project2 </h2>
+<h2> had little hickup </h2>
+<h2> i am done with project2 officialy </h2>
